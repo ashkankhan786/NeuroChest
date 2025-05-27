@@ -1,10 +1,10 @@
-./frontend/node_modules
-./frontend/dist
-./frontend/.gitignore
-./frontend/.env*
+frontend/node_modules
+frontend/dist
+frontend/.gitignore
+frontend/.env*
 
-./backend/venv
-./backend/models
+backend/venv
+backend/models
 
 Testing Images
 Testing Image Labels
